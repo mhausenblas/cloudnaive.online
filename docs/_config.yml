@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+title: cloudnaive.online
+description: all things infosec concerning *nix, containers, Kubernetes, and serverless computing
+show_downloads: false
+google_analytics: UA-34425776-3
