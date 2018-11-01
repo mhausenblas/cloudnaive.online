@@ -10,8 +10,7 @@ I plan to do an episode roughly every two weeks, travel allowing and each episod
 - updates on cloud native breaches, CVEs, attacks, incidents, for example: [the Tesla hack](https://redlock.io/blog/cryptojacking-tesla)
 - a hands-on part, aka hack of the day, where I will demo something
 
-For now, there are two things you can do: 1. spread the word, and 
-2. if you have anything to share that falls into the scope, drop me
+For now, there are two things you can do: 1. spread the word, and 2. if you have anything to share that falls into the scope, drop me
 a mail at <a href="mailto:tips@cloudnaive.online">tips@cloudnaive.online</a>.
 
 And here's the Twitch stream for you to bookmark:
