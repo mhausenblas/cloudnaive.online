@@ -4,15 +4,18 @@
 @import "{{ site.theme }}";
 
 header {
-    border-bottom: 1px dashed #6f4f09;
+    border-bottom: none;
 }
 
 header h1 {
     padding-left: 12px;
+    font-size: 22px;
+    font-weight: 300;
 }
 
-header h1:before {
-    content: "# ";
+header h2 {
+    font-size: 12px;
+    font-weight: 300;
 }
 
 header h1, 
@@ -20,11 +23,11 @@ h1,
 h2,
 h3,
 h4 {
-   color: #c48806;
+   color: #6ec711;
 }
 
 a {
-   color: #2f6de1;
+   color: #e60707b5;
 }
 
 ul li {
@@ -54,12 +57,11 @@ hr {
 }
 
 code.highlighter-rouge {
-    /* background: rgba(0,0,0,0.9); */
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    padding: 0px 7px;
+    background: none;
+    border: none;
+    padding: 1px 2px;
     margin: 0px -3px;
-    color: #c48806;
-    border-radius: 2px;
+    color: #6ec711;
 }
 
 img {
