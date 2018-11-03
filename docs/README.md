@@ -2,13 +2,13 @@
 
 &mdash;&mdash; Bruce Schneier, [Data and Goliath](https://www.goodreads.com/work/quotes/41629774-data-and-goliath-the-hidden-battles-to-collect-your-data-and-control-yo)
 
-Welcome to `cl0udn41v3`, the place on the Internet that's focusing on cloud native security
-topics including but not limited to Kubernetes and serverless offerings.
+Welcome to `cl0udn41v3`, the place on the Internet focusing on cloud native security
+topics including but not limited to Kubernetes and serverless offerings such as AWS Lambda.
 
-I plan to do an episode roughly every two weeks, travel allowing and each episode has two parts:
+I plan to do an episode roughly every two weeks, travel allowing, and each episode has two parts:
 
 - Updates on cloud native breaches, [CVEs](https://cve.mitre.org/), attacks, incidents, for example: [the Tesla hack](https://redlock.io/blog/cryptojacking-tesla).
-- A hands-on part, aka hack of the day, where I will demo something.
+- A hands-on part, aka the hack of the day, where I will demo something.
 
 For now, there are two things you can do: 1. spread the word, and 2. if you have anything to share that's in scope, please <a href="mailto:tips@cloudnaive.online">drop me
 a line</a>.
@@ -22,6 +22,7 @@ Sources I keep an eye on (and again, please <a href="mailto:tips@cloudnaive.onli
 
 - [threat post](https://threatpost.com/category/cloud-security/)
 - [Dark Reading](https://www.darkreading.com/attacks-breaches.asp)
+- [r/security](https://www.reddit.com/r/security/)
 
 ----    
 Michael Hausenblas, Ireland, © 2018.
