@@ -18,11 +18,29 @@ And here's the Twitch stream for you to bookmark:
 <iframe src="https://player.twitch.tv/?channel=mhausenblas" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 <a href="https://www.twitch.tv/mhausenblas?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:12px; text-decoration:underline;">watch live video on twitch.tv</a>
 
-Sources I keep an eye on (and again, please <a href="mailto:tips@cloudnaive.online">lemme know</a> which others you think are worth it):
+## Resources
+
+Place I keep an eye on to learn about new developments and reports (and again, please <a href="mailto:tips@cloudnaive.online">lemme know</a> which others you think are worth it):
 
 - [threat post](https://threatpost.com/category/cloud-security/)
 - [Dark Reading](https://www.darkreading.com/attacks-breaches.asp)
 - [r/security](https://www.reddit.com/r/security/)
+- [AWS security bulletin](https://aws.amazon.com/security/security-bulletins/)
+- Azure [Security Advisories and Bulletins](https://docs.microsoft.com/en-us/security-updates/)
+- Google Kubernetes Engine [Security Bulletins](https://cloud.google.com/kubernetes-engine/docs/security-bulletins)
 
-----    
+Resources I recommend to read and/or watch to have a good understanding of the background, terms, technologies, and methods:
+
+- [Zero Trust Networks](http://shop.oreilly.com/product/0636920052265.do)
+- [Kubernetes Security](https://kubernetes-security.info/)
+- [AWS Cloud Security](https://aws.amazon.com/security/)
+- [AWS Lambda Security Best Practices](https://www.protego.io/aws-lambda-security-best-practices/)
+- [Azure Security Documentation](https://docs.microsoft.com/en-us/azure/security/)
+- [Google Cloud’s security model](https://cloud.google.com/security/)
+
+## Motivation
+
+
+
+----
 Michael Hausenblas, Ireland, © 2018.
