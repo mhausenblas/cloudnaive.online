@@ -42,7 +42,7 @@ Resources I recommend to read and/or watch to have a good understanding of the b
 ## Motivation
 
 I've been reading Bruce Schneier's ["Click Here to Kill Everybody"](https://www.schneier.com/books/click_here/) and this motivated 
-me to start thinking more about how we're doing concerning security in cloud native land. Already when Liz and I were working on the Kubernetes Security
+me to start thinking more about how we're doing concerning security in cloud native land. Already when Liz and I were working on the *Kubernetes Security* 
 book I got more and more interested in attack vectors and good practices around container security, but Schneier's book really caused me to
 get my act together and do something about it, proactively. So, yeah, might be that the one or other script kiddy is motivated by this site and 
 this is a risk I gotta take. But my hope is that you, the cloud native practitioner, tune in here from time to time to stay up-to-date on
