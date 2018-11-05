@@ -38,6 +38,7 @@ Resources I recommend to read and/or watch to have a good understanding of the b
 - [AWS Lambda Security Best Practices](https://www.protego.io/aws-lambda-security-best-practices/)
 - [Azure Security Documentation](https://docs.microsoft.com/en-us/azure/security/)
 - [Google Cloud’s security model](https://cloud.google.com/security/)
+- [PureSec's Serverless Security blog](https://www.puresec.io/blog/recommended-reading-serverless-application-security)
 
 ## Motivation
 
